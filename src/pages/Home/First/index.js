@@ -12,7 +12,7 @@ const First = () => {
             <div className="h5 mt_200">Page DAO Presents the</div>
             <div className="h2 h2_sm mt_15">Readme Books NFTBook Minter</div>
             <a href="#wallet">
-                <Button value="Create your NFT"
+                <Button value="Create your NFTBook"
                     style={{ width: 228, height: 56, marginTop: 50, marginLeft: 'auto', marginRight: 'auto' }}
                     white />
             </a>
